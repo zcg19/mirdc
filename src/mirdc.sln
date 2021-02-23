@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mirdc", "mirdc.vcproj", "{AF2C3746-17BF-4551-BA8C-5A5E78FF7E74}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libyuv", "..\libyuv\libyuv.vcproj", "{319463CB-03AA-4A04-B3F6-8C94514CEAA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF2C3746-17BF-4551-BA8C-5A5E78FF7E74}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AF2C3746-17BF-4551-BA8C-5A5E78FF7E74}.Debug|Win32.Build.0 = Debug|Win32
+		{AF2C3746-17BF-4551-BA8C-5A5E78FF7E74}.Release|Win32.ActiveCfg = Release|Win32
+		{AF2C3746-17BF-4551-BA8C-5A5E78FF7E74}.Release|Win32.Build.0 = Release|Win32
+		{319463CB-03AA-4A04-B3F6-8C94514CEAA0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{319463CB-03AA-4A04-B3F6-8C94514CEAA0}.Debug|Win32.Build.0 = Debug|Win32
+		{319463CB-03AA-4A04-B3F6-8C94514CEAA0}.Release|Win32.ActiveCfg = Release|Win32
+		{319463CB-03AA-4A04-B3F6-8C94514CEAA0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
