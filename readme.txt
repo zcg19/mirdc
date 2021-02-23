@@ -1,4 +1,4 @@
-a simply windows remote desktop
+a simply windows remote desktop control
 
 
 1 依赖 openh264，进行图片压缩
