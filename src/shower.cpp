@@ -13,7 +13,7 @@
 
 
 TCHAR     * g_szClassName  = L"mirdc";
-TCHAR     * g_szCaption    = L"midrc";
+TCHAR     * g_szCaption    = L"mirdc";
 HINSTANCE   g_hInst        = 0;
 HWND        g_hWnd         = 0;
 CShower   * g_shower       = 0;

@@ -141,7 +141,7 @@ private:
 
 				if(nLen > 0)
 				{
-					printf(">> rdc server, send video data -->%d\n", pPacket->nLen);
+					//printf(">> rdc server, send video data -->%d\n", pPacket->nLen);
 					pPacket->nType = TypeS_VideoData; pPacket->nLen = nLen+sizeof(*pPacket);
 					nRet = m_pSrv->SendPacket(pPacket); Assert(!nRet);
 				}
