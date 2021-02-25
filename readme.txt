@@ -13,4 +13,4 @@ a simply windows remote desktop control
 6.3 使用 openh264编码后第一帧图片大约几十K，这样每秒最大的数据约为几百K。
 6.4 因为 ffmpeg的库比较庞大所以使用了 openh264进行编解码。
 
-7 配合natproxy使用的话可以穿透nat。
+7 配合natproxy使用的话可以穿透nat，就像teamview。
